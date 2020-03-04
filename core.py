@@ -259,7 +259,8 @@ class Command():
             "check_boss_stage",
             "click_challenge_boss_fp",
             "check_bundle_pop_up",
-            "check_level_up"
+            "check_level_up",
+            "click_continue"
         ]
         self.exec_func(cmd_list)
 
